@@ -73,7 +73,6 @@ body {
   margin: 0 auto;
 }
 
-
 .custom_nav-container.navbar-expand-lg .navbar-nav .nav-link {
   padding: 10px 30px;
   color: #434242;
@@ -105,17 +104,6 @@ a:focus {
   font-weight: bold;
   font-size: 24px;
   color: #fafcfd;
-}
-
-.custom_nav-container .nav_search-btn {
-  background-image: url(../images/search-icon.png);
-  background-size: 22px;
-  background-repeat: no-repeat;
-  background-position-y: 7px;
-  width: 35px;
-  height: 35px;
-  padding: 0;
-  border: none;
 }
 
 .navbar-brand {
