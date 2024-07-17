@@ -1,4 +1,4 @@
-# Desafío Final Modulo 1 (Portafolio Page)
+# Desafío Final Modulo 1 (Portafolio Page).
 
 ![Logo del Proyecto](assets/images/android-chrome-192x192.png)
 
